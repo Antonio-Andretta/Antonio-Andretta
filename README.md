@@ -1,5 +1,8 @@
 ### Hi there 👋
+- Oi Pessoal !!!
 
+-🔭 Depois de mais de 20 anos com 4GL...nos ultimos 3 anos me dediquei a aprender Java e agora o REACT...São paradigmas necessários a serem quebrados para se manter na tecnologia...
+ 
 <!--
 **Antonio-Andretta/Antonio-Andretta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
